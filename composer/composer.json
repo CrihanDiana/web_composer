@@ -1,0 +1,14 @@
+{
+    "name": "admin/composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "diana",
+            "email": "darialupasko@mail.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "vlucas/valitron": "^1.4"
+    }
+}
